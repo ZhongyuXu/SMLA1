@@ -1,2 +1,5 @@
 compression_test_ncd.npy
 compression_train_ncd.npy
+cut_data.csv
+weighted_data.csv
+balanced_data.csv
